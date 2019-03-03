@@ -62,7 +62,7 @@
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/9.png)
 
 # 例子 ：说明应该传达用户所需要的消息
-密码至少应为六个字符且至少有一个数字（0-9）
+密码至少应为六个字符且至少有一个数字（0-9）  
 密码：|      |
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/10.png)
 
@@ -72,9 +72,9 @@
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/11.png)
 
 # 更多的消息
-## 网页内容无障碍指南
+* 网页内容无障碍指南
    标签或说明3.3.2（了解3.3.2）
-## 用户故事
+* 用户故事
    简单的描述说明可以帮助有学习困难的人
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/12.png)
 
@@ -89,7 +89,7 @@
 
 # 例子：使内容易读且易于理解
 ×不必要的复杂
-CPP：如果发生车辆碰撞，指定的代表公司将寻求确切属于相关方所有财产的损害程度和原因。 一旦我们的代表得到使我们理解因果关系的信息，我们可能会或者不会分配适当的货币补偿。 由此产生的决定可能会出现以下选项之一：索赔未获批准并被指定为拒绝状态，索赔状态不明确，并且在进一步处理之前需要其他信息，索赔部分批准并减少付款是 已分配和签发，或索赔已完全批准，并且已分配和发放索赔总额。
+CPP：如果发生车辆碰撞，指定的代表公司将寻求确切属于相关方所有财产的损害程度和原因。 一旦我们的代表得到使我们理解因果关系的信息，我们可能会或者不会分配适当的货币补偿。 由此产生的决定可能会出现以下选项之一：索赔未获批准并被指定为拒绝状态，索赔状态不明确，并且在进一步处理之前需要其他信息，索赔部分批准并减少付款是 已分配和签发，或索赔已完全批准，并且已分配和发放索赔总额。  
 √易于理解
 索赔处理程序（CPP）：如果您发生车祸，我们的代理人将进行调查。调查结果将确定一些索赔付款。这可能导致：
 * 批准的索赔 - 全额付款
