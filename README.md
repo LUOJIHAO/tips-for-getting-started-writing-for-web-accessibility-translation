@@ -32,4 +32,13 @@
 （正确）有意义的信息
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/6.png)
 
+# 为图像编写有意义的替代文本
+
+对于每个图像，编写提供图像信息或功能的替代文本。对于纯装饰图像，不需要编写替代文本。
+
+例如：使用替代文本来传达重要信息
+
+
+
+
 
