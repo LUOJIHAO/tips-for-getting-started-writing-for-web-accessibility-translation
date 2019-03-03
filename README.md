@@ -56,3 +56,53 @@
 # 为多媒体创建文本和标题
 
 对于纯音频内容，如播客，提供一份抄本。对于音频和视频内容，如培训视频，也提供字幕。在字幕和标题中包括对理解内容很重要的口头信息和声音，例如，“门吱吱作响”。
+
+# 提供明确的用法说明
+确保有清晰易于读懂的用法说明、导航和错误信息，还有避免不必要的技术语言。描述清楚输入的格式要求，例如日期格式。
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/9.png)
+
+# 例子 ：说明应该传达用户所需要的消息
+密码至少应为六个字符且至少有一个数字（0-9）
+密码：|      |
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/10.png)
+
+#  例子：错误信息应告知问题的所在、造成问题的可能以及如何修复它
+1.	用户名“suprerbear”已经被使用
+2.	这个密码中应包括最少一个数字
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/11.png)
+
+# 更多的消息
+## 网页内容无障碍指南
+   标签或说明3.3.2（了解3.3.2）
+## 用户故事
+   简单的描述说明可以帮助有学习困难的人
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/12.png)
+
+# 保持内容清晰简洁
+* 写一些简短明了的句子和段落
+* 避免使用不必要的复杂单词和短语,考虑为读者可能不知道的术语提供词汇表
+* 首次使用时扩展首字母缩略词。例如，网页内容可访问性指南（WCAG）。
+* 考虑为读者可能不知道的术语提供词汇表
+* 根据实际需要使用列表格式
+* 考虑使用图像，插图，视频，音频和符号来帮助阐明意义
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/13.png)
+
+# 例子：使内容易读且易于理解
+×不必要的复杂
+CPP：如果发生车辆碰撞，指定的代表公司将寻求确切属于相关方所有财产的损害程度和原因。 一旦我们的代表得到使我们理解因果关系的信息，我们可能会或者不会分配适当的货币补偿。 由此产生的决定可能会出现以下选项之一：索赔未获批准并被指定为拒绝状态，索赔状态不明确，并且在进一步处理之前需要其他信息，索赔部分批准并减少付款是 已分配和签发，或索赔已完全批准，并且已分配和发放索赔总额。
+√易于理解
+索赔处理程序（CPP）：如果您发生车祸，我们的代理人将进行调查。调查结果将确定一些索赔付款。这可能导致：
+* 批准的索赔 - 全额付款
+* 部分批准的索赔 - 减少付款
+* 未确定声明 - 需要更多的信息
+* 被拒绝的索赔 - 没有付款
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/14.png)
+
+# 更多信息
+* 网页内容无障碍指南
+     阅读水平3.1.5（读懂3.1.5）
+    不寻常用词3.1.3（读懂3.1.3）
+    缩写3.1.4（读懂3.1.4）
+* 用户故事
+    阅读障碍的用户可以从易于阅读的文本中受益
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/15.png)
