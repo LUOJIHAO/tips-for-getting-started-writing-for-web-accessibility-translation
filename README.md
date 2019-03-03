@@ -38,7 +38,21 @@
 
 例如：使用替代文本来传达重要信息
 
+（错误）无效信息
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/7.png)
+为手机充电：使用随附的电线和电源适配器将手机连接至电源插座。<br>
+**图片的替代文字：**“手机充电”
+
+（正确）有效信息
+![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/8.png)
+为手机充电：使用随附的电线和电源适配器将手机连接至电源插座。<br>
+**图像的替代文字：**“将电线插入手机的底部边缘。”
+
+
+替代文字通常不可见; 它包含在这个例子中，所以你可以看到它是什么。
 
 
 
+# 为多媒体创建文本和标题
 
+对于纯音频内容，如播客，提供一份抄本。对于音频和视频内容，如培训视频，也提供字幕。在字幕和标题中包括对理解内容很重要的口头信息和声音，例如，“门吱吱作响”。
