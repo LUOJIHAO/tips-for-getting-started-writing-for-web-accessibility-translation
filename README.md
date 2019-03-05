@@ -71,12 +71,6 @@
 2.	这个密码中应包括最少一个数字
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/11.png)
 
-# 更多的消息
-* 网页内容无障碍指南
-   标签或说明3.3.2（了解3.3.2）
-* 用户故事
-   简单的描述说明可以帮助有学习困难的人
-![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/12.png)
 
 # 保持内容清晰简洁
 * 写一些简短明了的句子和段落
@@ -98,11 +92,4 @@ CPP：如果发生车辆碰撞，指定的代表公司将寻求确切属于相�
 * 被拒绝的索赔 - 没有付款
 ![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/14.png)
 
-# 更多信息
-* 网页内容无障碍指南
-     阅读水平3.1.5（读懂3.1.5）
-    不寻常用词3.1.3（读懂3.1.3）
-    缩写3.1.4（读懂3.1.4）
-* 用户故事
-    阅读障碍的用户可以从易于阅读的文本中受益
-![image](https://raw.githubusercontent.com/LUOJIHAO/tips-for-getting-started-writing-for-web-accessibility-translation/master/img/15.png)
+
